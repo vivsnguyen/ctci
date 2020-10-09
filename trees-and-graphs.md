@@ -22,6 +22,10 @@ class Node(object):
 ## Trees vs. Binary Trees
 * A **binary tree** is a tree in which each node has **up to two** children
 * Not all trees are binary trees
+
+## Binary Tree vs. Binary Search Tree
+
+## Balanced vs. Unbalanced
 * A binary tree is height-balanced if, for each node in the tree, the difference between the height of the right subtree and the left subtree is at most one
 
 ```
