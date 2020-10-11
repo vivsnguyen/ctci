@@ -24,6 +24,8 @@ class Node(object):
 * Not all trees are binary trees
 
 ## Binary Tree vs. Binary Search Tree
+* A **binary search tree** is a binary tree that is ordered as: all left descendents <= n < all right descendents
+	* this must be true for each node n
 
 ## Balanced vs. Unbalanced
 * A binary tree is height-balanced if, for each node in the tree, the difference between the height of the right subtree and the left subtree is at most one
