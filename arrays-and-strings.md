@@ -1,5 +1,7 @@
 # Arrays and Strings
 
+Ch. 1
+
 ## Hash Tables
 * A hash table is a data structure that maps keys to values for highly efficient lookup. 
 * Hashing always creates a **key-value pair**
