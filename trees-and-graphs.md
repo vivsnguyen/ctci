@@ -21,18 +21,26 @@ class Node(object):
         self.children = []
 ```
 
-## Trees vs. Binary Trees
+### Trees vs. Binary Trees
 * A **binary tree** is a tree in which each node has **up to two** children
 * Not all trees are binary trees
 
-## Binary Tree vs. Binary Search Tree
+### Binary Tree vs. Binary Search Tree
 * A **binary search tree** is a binary tree that is ordered as: all left descendents <= n < all right descendents
 	* this must be true for each node n
 
-## Balanced vs. Unbalanced
+### Balanced vs. Unbalanced
 * A binary tree is height-balanced if, for each node in the tree, the difference between the height of the right subtree and the left subtree is at most one
 
 ```
 ∣Height(LeftSubTree)−Height(RightSubTree)∣<=1
 ```
 
+
+## Binary Tree Traversal
+
+## In-Order Traversal
+
+## Pre-Order Traversal
+
+## Post-Order Traversal
