@@ -42,5 +42,6 @@ class Node(object):
 ## In-Order Traversal
 
 ## Pre-Order Traversal
+* visits the current node before its child nodes
 
 ## Post-Order Traversal
